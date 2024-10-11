@@ -3,7 +3,7 @@
 ---
 
 <div align="left">
-  <h3>🚀 About Me:</h3>
+  <h3>About Me:</h3>
   <ul>
     <li>🔭 Currently crafting code at 3 AM while high on caffeine (because sleep is overrated)</li>
     <li>🌱 Constantly learning new tech (currently exploring AI and pushing boundaries with automation)</li>
