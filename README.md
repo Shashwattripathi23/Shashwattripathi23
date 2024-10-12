@@ -3,85 +3,76 @@
 ---
 
 <div align="left">
-  <h3>About Me:</h3>
-  <ul>
-    <li>🔭 Currently crafting code at 3 AM while high on caffeine (because sleep is overrated)</li>
-    <li>🌱 Constantly learning new tech (currently exploring AI and pushing boundaries with automation)</li>
-    <li>👯 Always open to collaborating on impactful projects that solve real-world problems</li>
-    <li>⚡ Fun fact: I can write code faster than I can explain it to my mom</li>
-  </ul>
+  <div style="display: inline-block; text-align: left; max-width: 500px;">
+    <h3>🚀 About Me:</h3>
+    <ul>
+      <p>🔭 Currently exploring new tech stacks and coding late into the night</p>
+      <p>🌱 Always learning – delving into AI, cloud services, and automation</p>
+      <p>👯 Eager to collaborate on impactful, tech-driven projects</p>
+      <p>💡 Fun fact: I can debug code faster than I can explain the issue!</p>
+    </ul>
+  </div>
+  
+  <div align="right">
+    <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250" alt="Coding gif" />
+  </div>
 </div>
-
-<div align="right">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnY5d2gxN2pkYnd4eG5wbWk4bnhtMXdhYXl1c2Vla3BzNDAwcnpnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO7A7bt1wsEP4cw/giphy.gif" width="250" />
-</div>
-
-<br clear="both" />
 
 ---
 
 ### 🛠️ Tech Stack:
 
 <p align="center">
-  <!-- Add all relevant tech stack icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="ASP.Net Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="NextJS" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQLServer" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </p>
 
 ---
 
-### ⚡ Let's get nerdy:
-
-- 🧠 Problem-Solver | Ranked 225 globally on Codechef! 💪 (Watch out world)
-- 🤖 Built *Still Alive? Confessions App* to keep people sane with Google Cloud APIs
-- 🏆 Survived national-level hackathons, including AI parking spot detection (it worked!) and streamlining health insurance claims
-- 🔥 Founder of Bhopal's music revolution 🎶 as Coordinator of the Music Club (did someone say **mentorship program**?)
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashwattripathi23&show_icons=true&theme=radical" alt="Shashwat's GitHub stats" />
+  <img src="https://github-readme-s-git-186505-shashwat-tripathis-projects-32e2d00e.vercel.app/api?username=Shashwattripathi23&show_icons=true&theme=radical&" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwattripathi23&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-### 💬 Find Me Here:
+### 💬 Let's Connect:
 
 <p align="center">
-  <a href="https://linkedin.com/in/shashwattripathi23" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shashwat@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/shashwattripathi23" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shashwat-tripathi-145203220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tripathi.shashwat@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Shashwattripathi23" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://open.spotify.com/playlist/0RbTmA2NAMn4O6xXz6FuqB?si=bfc30f46f11a44f4" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
 </p>
 
 ---
-
-### 🐍 Watch the Snake Eat My Code!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shashwattripathi23/Shashwattripathi23/output/snake.svg" alt="Snake eating my code" />
-</p>
-
----
-
-### 🎵 Mood while coding:
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=default" alt="Spotify playing" />
-</p>
-
----
-
-👾 **Warning**: Contact me at your own risk. Midnight coding sessions with pizza and no sleep may occur.
