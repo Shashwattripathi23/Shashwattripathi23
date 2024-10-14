@@ -7,7 +7,7 @@
     <h3>🚀 About Me:</h3>
     <ul>
       <p>🔭 Currently exploring new tech stacks and coding late into the night</p>
-      <p>🌱 Always learning – delving into AI, cloud services, and automation</p>
+      <p>🌱 Always learning – delving into AI, cloud services, and automation</p>    
       <p>👯 Eager to collaborate on impactful, tech-driven projects</p>
       <p>💡 Fun fact: I can debug code faster than I can explain the issue!</p>
     </ul>
