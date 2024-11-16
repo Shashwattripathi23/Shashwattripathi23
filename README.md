@@ -52,7 +52,7 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-s-git-186505-shashwat-tripathis-projects-32e2d00e.vercel.app/api?username=Shashwattripathi23&show_icons=true&theme=radical&" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-s-git-186505-shashwat-tripathis-projects-32e2d00e.vercel.app/api?username=Shashwattripathi23&show_icons=true&theme=radical&" alt="GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwattripathi23&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
